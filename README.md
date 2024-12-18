@@ -2,7 +2,7 @@
 
 <p align="center">
     <br />
-    <a href="https://github.com/bdrozek/Micro_MIS_Capstone"><strong>Explore the docs »</strong></a> 
+    <a href="https://bdrozek.github.io/WebPageMIS/"><strong>Explore our Project Webpage! »</strong></a> 
     <br />
     <br />
 </p>
