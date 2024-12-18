@@ -2,7 +2,7 @@
 
 <p align="center">
     <br />
-    <a href="https://bdrozek.github.io/WebPageMIS/"><strong>Explore our Project Webpage! »</strong></a> 
+    <a href="https://bdrozek.github.io/WebPageMIS/"><strong>« Explore our Project Webpage! »</strong></a> 
     <br />
     <br />
 </p>
