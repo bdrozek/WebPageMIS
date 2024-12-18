@@ -1,8 +1,31 @@
-# React + Vite
+<h3 align="center">MIS Microbiology Capstone Project</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+    <br />
+    <a href="https://github.com/bdrozek/Micro_MIS_Capstone"><strong>Explore the docs »</strong></a> 
+    <br />
+    <br />
+</p>
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For our team's project we are planning, designing, and building the microbiology diagnostic dashboard portion of the MIS capstone project for Texas Tech University. We will develop the dashboard in nine different sections, those sections being, quality control, patient/order entry, results in progress, patient reports, assignments, gradebook, quizzes, case studies, and  training videos for students & faculty. We have been given tasks from Medical Information Simulations that showcase what each section will require for them. 
+
+During this project we will be in constant communication with our professor Dr. Tommy Dang as the personnel at Medical Information Simulations. For our data sample sets we will have communication between student and faculty accounts, as we have been provided with test users who are within the microbiology department we have asked them questions regarding our project without explaining in full what the project is.
+
+Team Members: 
+  * Joseph Payne - Team Leader
+  * Jack Corwin
+  * Koy Bell
+  * Benjamin Drozek 
+
+
+
+### Built With 
+
+* [![React][React.js]][React-url]
+
+
+<!-- MARKDOWN LINKS -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
